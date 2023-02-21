@@ -1,0 +1,14 @@
+-- Milk Up
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CrimesBTW/Milk-Up/psx/Milk%20Up.lua"))()
+
+
+-- INCLUDES:
+-- AUTOFARM
+-- BOOTH SNIPE
+-- AUTO PET COLLECTION
+-- AUTO GOLD/RB/DM
+-- AUTO HATCH
+-- AUTO LIST PETS ON BOOTH
+ 
+-- Just a reminder: Anyone attempting to get you to execute a dupe/trade scam script are fakes, they have been patched and currently do not exist.
